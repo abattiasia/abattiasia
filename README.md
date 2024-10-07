@@ -11,46 +11,45 @@
 - 🔭 I’m currently working on [# Project Overview
 Introduction to Langchain, LLM, and Database Integration.
 
-# Objectives
+## Objectives
 Key Goals of Connecting Langchain with LLM and Database.
 
-# Technology Stack
+## Technology Stack
 Overview of Tools and Technologies Used (Langchain, LLM, Database).
 
-# System Architecture
+## System Architecture
 Design and Workflow of the Integration.
 
-# Langchain Setup
+##  Langchain Setup
 Installation and Configuration of Langchain.
-
-# LLM Integration
+##  LLM Integration
 Connecting Langchain with Language Learning Models.
 
-# Database Connection
+##  Database Connection
 Linking Langchain and LLM with the Company Database.
 
-# Data Flow and Query Handling
+##  Data Flow and Query Handling
 Process of Data Retrieval, Queries, and Responses.
 
-# Error Handling and Logging
+##  Error Handling and Logging
 Ensuring Reliability and Troubleshooting.
 
-# Security and Data Privacy
+##  Security and Data Privacy
 Measures Taken for Secure Data Transactions.
 
-# Testing and Validation
+##  Testing and Validation
 Quality Assurance and Testing Methodologies.
 
-# Deployment
+##  Deployment
 Steps to Deploy the Integrated System.
 
-# Use Cases
+##  Use Cases
 Real-World Applications and Scenarios for the Company.
 
-# Future Enhancements
+##  Future Enhancements
 Possible Improvements and Extensions.
 
-# Conclusion
+##  Conclusion
 Summary of Project Achievements.
 )
 
